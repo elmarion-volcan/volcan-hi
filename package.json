@@ -84,7 +84,7 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "main": ".eslintrc.js",
+  "main": "dist/vue-volcan-hi.js",
   "directories": {
     "test": "test"
   },
